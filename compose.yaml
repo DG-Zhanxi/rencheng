@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:8027:8027"
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config:ro
+    restart: unless-stopped

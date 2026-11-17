@@ -1,0 +1,22 @@
+{
+  "source": "OpenStreetMap contributors / OSM API 0.6",
+  "license": "ODbL 1.0",
+  "url": "https://www.openstreetmap.org/copyright",
+  "bbox": "22.525,114.025,22.565,114.075",
+  "crs": "EPSG:4326",
+  "retrieved_at": "2026-11-16T14:43:57.448758+00:00",
+  "sha256": "af6f84a76618c7eb63b797b5ad739f58f5fe30a8ccdf718fc52f21263fef9dbb",
+  "roads": 956,
+  "buildings": 758,
+  "pois": 4,
+  "historic_status": "现状路网；不是2023年历史路网",
+  "download_url": "https://api.openstreetmap.org/api/0.6/map?bbox=114.035,22.535,114.065,22.555",
+  "query_bbox": [
+    114.035,
+    22.535,
+    114.065,
+    22.555
+  ],
+  "raw_file": "raw/shenzhen.osm",
+  "raw_sha256": "2c1c6951faea7bbd68010350a3f578ae9e04abfa9889ca77cd491760cd07a032"
+}

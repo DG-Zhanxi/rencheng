@@ -1,0 +1,12 @@
+config/model.json
+.env
+.git
+.venv
+node_modules
+frontend/node_modules
+work
+cache
+backups
+**/__pycache__
+data/*.sqlite*
+*.zip

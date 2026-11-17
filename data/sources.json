@@ -1,0 +1,61 @@
+[
+  {
+    "id": "sz_transport",
+    "publisher": "深圳市交通运输局",
+    "title": "众志成城战暴雨 恢复秩序保运转",
+    "url": "https://jtys.sz.gov.cn/jtzx/wycx/zjcx/zjcx_cxtx/content/post_10839773.html",
+    "retrieved_at": "2026-11-16T14:35:39.614077+00:00",
+    "kind": "官方记录",
+    "redistribution": "仅保存来源与结构化事实；全文不随开源发布",
+    "status": "已获取",
+    "sha256": "e77890b17f98c1ca1d31f8a0524f3f9dc21b62265cc1ce9b5e8e4821048b6c6c",
+    "characters": 4953
+  },
+  {
+    "id": "sz_response",
+    "publisher": "深圳新闻网·部门正式回应",
+    "title": "北环大道积水处置记录",
+    "url": "https://www.sznews.com/zhuanti/content/mb/2023-09/14/content_30475114.htm",
+    "retrieved_at": "2026-11-16T14:35:40.296617+00:00",
+    "kind": "部门回应",
+    "redistribution": "仅保存来源与结构化事实；全文不随开源发布",
+    "status": "已获取",
+    "sha256": "6e4a38bf04eefd01d6573ce23c038944f7a2cd9245acaf82cdf3f47189ed08a8",
+    "characters": 13408
+  },
+  {
+    "id": "sz_shelter",
+    "publisher": "深圳市应急管理局",
+    "title": "室内应急避难场所名录",
+    "url": "https://yjgl.sz.gov.cn/gkmlpt/content/12/12905/post_12905910.html",
+    "retrieved_at": "2026-11-16T14:35:41.459061+00:00",
+    "kind": "官方记录",
+    "redistribution": "仅保存来源与结构化事实；全文不随开源发布",
+    "status": "待获取",
+    "error": "HTTPError"
+  },
+  {
+    "id": "sz_flood",
+    "publisher": "深圳市水务局",
+    "title": "各区内涝点整治任务表",
+    "url": "https://swj.sz.gov.cn/ztzl/ndmsss/yldzl/gqnldzl/",
+    "retrieved_at": "2026-11-16T14:35:42.407303+00:00",
+    "kind": "官方记录",
+    "redistribution": "仅保存来源与结构化事实；全文不随开源发布",
+    "status": "已获取",
+    "sha256": "69f660e2df8c48689b9252e29276d8d0e0e8e0ec3f88ca8efb746e030232ed93",
+    "characters": 404
+  },
+  {
+    "id": "sz_rain",
+    "publisher": "深圳市政府",
+    "title": "2023年9月暴雨情况",
+    "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/mpost_10825070.html",
+    "retrieved_at": "2026-11-16T14:35:42.683083+00:00",
+    "kind": "官方记录",
+    "redistribution": "仅保存来源与结构化事实；全文不随开源发布",
+    "status": "已获取",
+    "sha256": "dac9d4f91d2a8c330c899f606b06fef054ea5f38c489135dae6f89906ed610b3",
+    "characters": 2499
+  }
+]

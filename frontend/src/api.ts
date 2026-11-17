@@ -1,0 +1,3 @@
+export async function api(path:string,options:RequestInit={}){const r=await fetch('/api'+path,{...options,headers:{'Content-Type':'application/json',...options.headers},credentials:'same-origin'});let d;try{d=await r.json()}catch{throw new Error('服务返回格式错误')}if(!r.ok)throw new Error(typeof d.detail==='string'?d.detail:'请求失败');return d}
+export const post=(path:string,body:unknown)=>api(path,{method:'POST',body:JSON.stringify(body)});
+export function downloadJson(name:string,data:unknown){const u=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=u;a.download=name;a.click();URL.revokeObjectURL(u)}

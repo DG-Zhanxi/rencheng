@@ -1,0 +1,30 @@
+[
+  {
+    "id": "EV-001",
+    "title": "北环大道安托山路段北侧积水",
+    "source_id": "sz_response",
+    "event_type": "积水",
+    "location_text": "北环大道安托山路段北侧",
+    "occurred_at": "2023-09-08T10:23:00+08:00",
+    "available_at": "2023-09-14T16:15:00+08:00",
+    "status": "待复核",
+    "origin": "真实记录",
+    "quote": "10时23分",
+    "road_id": null,
+    "verified_in_download": true
+  },
+  {
+    "id": "EV-002",
+    "title": "北环大道积水消退、恢复通行",
+    "source_id": "sz_response",
+    "event_type": "恢复",
+    "location_text": "北环大道安托山路段北侧",
+    "occurred_at": "2023-09-08T18:20:00+08:00",
+    "available_at": "2023-09-14T16:15:00+08:00",
+    "status": "待复核",
+    "origin": "真实记录",
+    "quote": "18时20分",
+    "road_id": null,
+    "verified_in_download": true
+  }
+]
